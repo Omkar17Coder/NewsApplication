@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 3239,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Heath Streak: Former Zimbabwe captain & coach dies aged 49",
+            "description": "Former Zimbabwe captain and coach Heath Streak, who had been suffering from colon cancer, dies at the age of 49.",
+            "url": "https://www.bbc.co.uk/sport/cricket/66693655",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3F77/production/_130974261_gettyimages-927831784.jpg",
+            "publishedAt": "2023-09-03T09:12:56Z",
+            "content": "Heath Streak had been receiving treatment at a hospital in Johannesburg, South Africa\r\nFormer Zimbabwe captain and coach Heath Streak, who had been suffering from colon cancer, has died at the age of… [+1746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "NFT Startup Rario Founders To Leave a Year After $120M Funding",
+            "description": "Founders of Rario, the cricket NFT startup in which India's Dream11 led a $120 million funding round last year, are leaving the two-year-old firm, TechCrunch reported Friday, citing people familiar with the matter. From the report: Ankit Wadhwa, who serves as…",
+            "url": "https://slashdot.org/story/23/09/08/1412226/nft-startup-rario-founders-to-leave-a-year-after-120m-funding",
+            "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+            "publishedAt": "2023-09-08T15:08:00Z",
+            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Mukesh Ambani succession plan: The new generation taking over from Asia’s richest man",
+            "description": "Mukesh Ambani, who heads India's biggest business empire, is preparing to hand over the reins to his children.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-66643831",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14114/production/_126769128_reliance.jpg",
+            "publishedAt": "2023-09-02T23:37:05Z",
+            "content": "For months, the world has been captivated by the last season of Succession, the Emmy-winning TV drama on the lives of the corporate élite. \r\nBut in India, a real-life succession plan, involving a for… [+6960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Associated Press",
+            "title": "Akram criticizes Pakistan Cricket Board for leaving Imran Khan out of Independence Day video",
+            "description": "The Pakistan Cricket Board has received severe backlash for leaving World Cup-winning captain and former prime minister Imran Khan out of a video it released...",
+            "url": "https://news.yahoo.com/akram-criticizes-pakistan-cricket-board-154800183.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ByaIVA5aejayxB8hQW2HHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/d11d6c62e7d1c04ee6e78d43fb6429e6",
+            "publishedAt": "2023-08-16T15:48:00Z",
+            "content": "ISLAMABAD (AP) The Pakistan Cricket Board has received severe backlash for leaving World Cup-winning captain and former prime minister Imran Khan out of a video it released on the country's Independe… [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Alan Taylor",
+            "title": "Photos of the Week: Smart Lander, Elephant Puppet, Zozobra Burning",
+            "description": "The World Tango Championship in Argentina, devastating floods in Greece, a buffalo police patrol in Brazil, a muddy mess at the Burning Man Festival, and much more",
+            "url": "https://www.theatlantic.com/photo/2023/09/photos-of-the-week-smart-lander-elephant-puppet-zozobra-burning/675254/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-09-08T04:30:00Z",
+            "content": "The World Tango Championship in Argentina, devastating floods in Greece, a scene from the 80th Venice Film Festival, a cricket game in Afghanistan, a light festival in South Africa, a buffalo police … [+72 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "C. Scott Brown",
+            "title": "Cricket now offers the ability to pay for multiple months and earn big discounts",
+            "description": "If you have the money to pay for a few months in advance, Cricket Wireless will now offer you substantial discounts.",
+            "url": "https://www.androidauthority.com/cricket-wireless-pay-in-advance-3358140/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/08/Cricket-Wireless-stock-photo-1-e1627508745504.jpg",
+            "publishedAt": "2023-08-25T14:55:54Z",
+            "content": "<ul><li>Cricket Wireless now offers discounts for individual subscribers who pay months in advance.</li><li>Depending on how far ahead you pay, you can earn up to $300 off your yearly charges.</li><l… [+1387 chars]"
+        }
+    }
+}
